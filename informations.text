@@ -1,0 +1,4 @@
+Multer is responsible for handling multipart forms.
+It adds a body object and a file or files object to the request object
+
+
